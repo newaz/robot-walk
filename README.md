@@ -18,7 +18,7 @@ Backend project has more features and is more compact than the frontend. Some te
 
 ### Frontend
 
-Frontend project is more straightforward and simple. It has been as simple as possible to keep the assignment duration under 4 hours. The assumption is user will always input the right inputs. No validation is made for any inputs. There is only one positive test to showcase the test flow. In real life the project needs more safeguard, tests and fine tuning. Since the backend project has the tests for robot movements and in real world frontend would delegate the robot control to backend hence a simple robot controller is used in frontend. For more robust robot controller please refer to the backend project.
+Frontend project is more straightforward and simple. It has been made as simple as possible to keep the assignment duration under 4 hours. The assumption is user will always input the right inputs. No validation is made for any inputs. There is only one positive test to showcase the test flow. In real life the project needs more safeguard, tests and fine tuning. Since the backend project has the tests for robot movements and in real world frontend would delegate the robot control to backend hence a simple robot controller is used in frontend. For more robust robot controller please refer to the backend project.
 
 #### Tools used:
 
