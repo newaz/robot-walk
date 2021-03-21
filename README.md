@@ -7,7 +7,7 @@ The repository is divided into two projects
 
 ### Backend
 
-Backend project has more features and is more compact than the frontend. Some tests have been added to the actual robot control logic. No tests have been added for the code which parses and validates inputs. The assumption is that user will in most cases insert valid inputs. There are some validation in place within code but not so extensive. Importance has been put in code structure and organisation and flexible enough to add more command in the future.
+Backend project has more features and is more compact than the frontend. Some tests have been added to the actual robot control logic. No tests have been added for the code which parses and validates inputs. The assumption is that user will in most cases insert valid inputs. There are some validation in place within code but not so extensive. Importance has been put in code structure and organisation and flexible enough to add more command in the future. Some files have been intentionally kept long and not divided into smaller files.
 
 #### Tools used:
 
